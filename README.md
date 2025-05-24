@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-Welcome to my GitHub! I'm Xinyue Wang, a student at [Stanford University](https://www.stanford.edu) [Online High School](https://ohs.stanford.edu). My academic pursuits are deeply rooted at the intersection of **Gender Studies** and **Human Sexuality**, augmented by a strong interest in **mathematical applications**, especially **Number Theory**. I am passionate about exploring the complexities of **gender identity** and **sexual orientation**, utilizing both qualitative and quantitative approaches. My research includes developing **data-driven insights** and **theoretical models** to better understand these dynamic fields. If you have any inquiries or interest in my projects, please don't hesitate to reach out via [email](mailto:wxinyue@ohs.stanford.edu).
+Welcome to my GitHub! I'm Xinyue Wang, a student at [Stanford University](https://www.stanford.edu) [Online High School](https://ohs.stanford.edu). If you have any inquiries or interest in my projects, please don't hesitate to reach out via [email](mailto:wxinyue@ohs.stanford.edu).
 
 ---
 
