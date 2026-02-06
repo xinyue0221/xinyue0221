@@ -18,13 +18,6 @@
 Welcome to my GitHub! I'm Xinyue Wang, a student at [Stanford University](https://www.stanford.edu) [Online High School](https://ohs.stanford.edu). If you have any inquiries or interest in my projects, please don't hesitate to reach out via [email](mailto:wxinyue@ohs.stanford.edu).
 
 ---
-
-<img align="left" alt="Hanchao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xinyue0221&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanchao-Zhang&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
 ### Languages and Tools:
 
 <p align="left">
