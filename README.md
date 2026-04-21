@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 [website]: https://xinyue.me
-[twitter]: https://x.com/fULxY5rT0SJWP2j/
+[twitter]: https://x.com//
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/uvulnix77
 [linkedin]: https://www.linkedin.com/in/xinyue-wang-37168a248/
